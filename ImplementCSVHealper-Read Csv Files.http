@@ -1,0 +1,6 @@
+@ImplementCSVHealper_Read_Csv_Files_HostAddress = http://localhost:5119
+
+GET {{ImplementCSVHealper_Read_Csv_Files_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
